@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://t.me/Welkin_SA](https://t.me/Welkin_SA)
 
-- 📫 How to reach me **sardorfront@gmail.com**
+- 📫 How to reach me **sardorbuzines@gmail.com**
 
 - 📄 Know about my experiences [https://myurls.co/sardorbackend/edit](https://myurls.co/sardorbackend/edit)
 
