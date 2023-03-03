@@ -1,6 +1,6 @@
 ![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/purple%20modern%20Twitter%20Header.jpg)
 <h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
-<h3 align="center">Uzbekistan, Tashkent. Men dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
+<h3 align="center">Man dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
