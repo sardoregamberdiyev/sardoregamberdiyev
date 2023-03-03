@@ -2,6 +2,8 @@
 <h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
 <h3 align="center">Uzbekistan, Tashkent. Men dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
+<imgalign="right" alt="coding" with="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardoregamberdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="sardoregamberdiyev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sardoregamberdiyev](https://github.com/sardoregamberdiyev)
