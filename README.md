@@ -1,3 +1,4 @@
+![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/purple%20modern%20Twitter%20Header.jpg)
 <h1 align="center">Hi 👋, I'm Sardor Egamberdiyev</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 
