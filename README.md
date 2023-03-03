@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sardoregamberdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="sardoregamberdiyev" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/sardoregamberdiyev](https://github.com/sardoregamberdiyev)
 
 - 📝 I regularly write articles on [https://t.me/Welkin_SA](https://t.me/Welkin_SA)
