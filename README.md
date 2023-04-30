@@ -1,4 +1,4 @@
-![logo]( )
+![logo]()
 <h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
 <h3 align="center">Man dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
