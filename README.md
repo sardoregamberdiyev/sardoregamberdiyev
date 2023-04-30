@@ -1,4 +1,4 @@
-![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/purple%20modern%20Twitter%20Header.jpg)
+![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/Black%20Magenta%20Gaming%20Dynamic%20Gaming%20Logos%20Discord%20Profile%20Banner.mp4)
 <h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
 <h3 align="center">Man dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
