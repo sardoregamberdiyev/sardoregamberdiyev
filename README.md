@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/Colorful%20Modern%20Welcome%20Discord%20Profile%20Banner%20(2).jpg)
 <h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
 <h3 align="center">Man dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
