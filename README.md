@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sardoregamberdiyev](https://github.com/sardoregamberdiyev)
 
-- 📝 I regularly write articles on [https://t.me/Welkin_SA](https://t.me/Welkin_SA)
+- 📝 I regularly write articles on [https://t.me/Welkin_SA](https://t.me/egamberdiyevsardoruz)
 
 - 📫 How to reach me **sardorbuzines@gmail.com**
 
-- 📄 Know about my experiences [https://myurls.co/sardorbackend/edit](https://myurls.co/sardorbackend/edit)
+- 📄 Know about my experiences [https://myurls.co/sardorbackend/edit](https://myurls.co/sardorbackend/)
 
 - ⚡ Fun fact **Odamlar nima deydi 😅**
 
