@@ -2,7 +2,7 @@
 <h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
 <h3 align="center">Man dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/sardoregamberdiyev](https://github.com/sardoregamberdiyev)
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://myurls.co/sardorbackend/edit](https://myurls.co/sardorbackend/)
 
-- ⚡ Fun fact **Odamlar nima deydi 😅**
+- ⚡ Fun fact **Odamlar nima deydi😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
