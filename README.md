@@ -6,9 +6,9 @@
 
 - 👨‍💻 Mening barcha loyihalarim quyidagi manzilda mavjud [https://github.com/sardoregamberdiyev](https://github.com/sardoregamberdiyev)
 
-- 📝 Men muntazam ravishda maqolalar yozaman [https://t.me/Welkin_SA](https://t.me/egamberdiyevsardoruz)
+- 📝 Men muntazam ravishda maqolalar yozaman [https://t.me/egamberdiyevsardoruz](https://t.me/egamberdiyevsardoruz)
 
-- 📄 Mening tajribalarim haqida bilib oling [https://myurls.co/sardorbackend/edit](https://myurls.co/sardorbackend/)
+- 📄 Mening tajribalarim haqida bilib oling [https://myurls.co/sardorbackend/](https://myurls.co/sardorbackend/)
 
 - ⚡ Qiziqarli fakt **Maqsad doim oldinga boshlaydi !**
 
