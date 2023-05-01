@@ -6,7 +6,7 @@
 
 - 👨‍💻 Mening barcha loyihalarim quyidagi manzilda mavjud [https://github.com/sardoregamberdiyev](https://github.com/sardoregamberdiyev)
 
-- 📝 Men muntazam ravishda maqolalar yozaman [https://t.me/egamberdiyevsardoruz](https://t.me/egamberdiyevsardoruz)
+- 📝 Men muntazam ravishda maqolalar yozaman [https://t.me/egamberdiyevsardoruz](https://t.me/egamberdiyevsardoruz)<br>[https://www.instagram.com/egamberdiyevsardor_uz/](https://www.instagram.com/egamberdiyevsardor_uz/)
 
 - 📄 Mening tajribalarim haqida bilib oling [https://myurls.co/sardorbackend/](https://myurls.co/sardorbackend/)
 
