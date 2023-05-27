@@ -1,6 +1,6 @@
 ![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/EgamberdiyevSardor.jpg)
-<h1 align="center">Assalomu Alaykum 👋, mening ismim Sardor Egamberdiyev</h1>
-<h3 align="center">Man dasturlashning Full Stack, Backend sohasi bilan 4 yildan beri shug'ullanib kelaman.</h3>
+<h1 align="center">Assalomu Alaykum 👋, man Sardor Egamberdiyev</h1>
+<h3 align="center">Man dasturlashning Full Stack, Backend yo'nalishi bilan 4 yildan beri shug'ullanib kelaman.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
