@@ -8,7 +8,7 @@
 
 - 📄 Mening tajribalarim haqida bilib oling [https://egamberdiyevsardor.netlify.app/](https://egamberdiyevsardor.netlify.app/)
 
-- ⚡ Qiziqarli fakt **https://t.me/egamberdiyevsardor**
+- ⚡ Qiziqarli fakt **https://t.me/sardoregamberdiyevuz**
 
 <h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">
