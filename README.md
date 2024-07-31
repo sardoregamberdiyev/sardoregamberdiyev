@@ -1,4 +1,4 @@
-![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/EgamberdiyevSardor.jpg)
+![logo]([https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/EgamberdiyevSardor.jpg](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/Egamberidyev.png))
 <h1 align="center">Egamberdiyev Sardor</h1>
 <h3 align="center">Uzbekiston, Tashkent - FullStack, Backend developer</h3>
 
