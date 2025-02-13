@@ -10,7 +10,7 @@
 
 - ⚡ Qiziqarli fakt [Telegram chanel](https://t.me/sardoregamberdiyevuz)
 
-<h3 align="left">Tillar va ko'nikmalar:</h3>
+<h3 align="left">Dasturlash tillar va ko'nikmalar:</h3>
 <p align="left">
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
