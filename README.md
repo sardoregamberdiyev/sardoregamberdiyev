@@ -7,8 +7,3 @@
 - 📫 Menga qanday murojaat qilish mumkin [Telegram](https://t.me/egamberdiyevsardoruz) 
 
 - 📄 Mening tajribalarim haqida bilib oling [WebSite](https://egamberdiyevsardor.netlify.app/)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardoregamberdiyev&show_icons=true&locale=en&layout=compact" alt="sardoregamberdiyev"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardoregamberdiyev&show_icons=true&locale=en" alt="sardoregamberdiyev"/></p>
-
