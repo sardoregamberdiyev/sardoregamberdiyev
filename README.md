@@ -16,5 +16,5 @@
 
 <p align="center">
   Men "Python" backend yo‘nalishi bo‘yicha real loyihalar ishlab kelayotgan dasturchiman.
-  Zamonaviy texnologiyalar, toza kod va funksional tizimlar ishlab chiqaman, ma'lumo bir loyihalarni esa GitHub'ga joylab boraman !
+  Zamonaviy texnologiyalar, toza kod va funksional tizimlar ishlab chiqaman, ma'lum bir loyihalarni esa GitHub'ga joylab boraman !
 </p>
