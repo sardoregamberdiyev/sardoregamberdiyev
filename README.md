@@ -3,7 +3,7 @@
        alt="logo">
 </p>
 
-<h1 align="center">Egamberdiyev Sardor</h1>
+<h1 align="center">Sardor Egamberidyev</h1>
 <h3 align="center">Software Engineer, Python Backend Developer</h3>
 
 <p align="center">
